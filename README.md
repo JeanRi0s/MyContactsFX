@@ -104,4 +104,4 @@ CREATE TABLE contatos (
 
 ## Autor
 
-Desenvolvido por Jean — Engenharia de Computação, Instituto Federal do Ceará.
+Desenvolvido por Jean — Engenharia de Mecatrônica, Instituto Federal do Ceará.
